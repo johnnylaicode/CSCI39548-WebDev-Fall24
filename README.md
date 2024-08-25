@@ -137,7 +137,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2024
 
 ----------
 ## Class 6 (10/8, 10/10)
-### *Note:* NO CLASS 10/15 - CLASSES FOLLOW MONDAY SCHEDULE. Class resumes on Thursday, 10/27.
+### *Note:* NO CLASS 10/15 - CLASSES FOLLOW MONDAY SCHEDULE. Class resumes on Thursday, 10/17.
 
 ### *Reminder:* DUE DATE: Assignment 2 - Grid Maker is due on Wednesday, 10/16, at 11:59 PM.
 <br/>
@@ -298,7 +298,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2024
 
 ----------
 ## Class 13 (12/3, 12/5)
-### *Reminder 1:* Course Assessment Test (optional extra credit) on Tuesday, 10/10.
+### *Reminder 1:* Course Assessment Test (optional extra credit) on Tuesday, 12/10.
 
 ### *Reminder 2:* Complete Teacher Evaluation
 <br/>
