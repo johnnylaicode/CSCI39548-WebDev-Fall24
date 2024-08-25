@@ -54,7 +54,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2024
 ----------
 ## Class 2 (9/5, 9/10)
 **Intro to Assignment 1**
-- ### [Assignment 1 - Zoo](https://drive.google.com/file/d/1BU-UBDcvjEW5yJHJrPYJoI9oWc_I01eq/view?usp=sharing)
+- ### [Assignment 1 - Zoo](https://drive.google.com/file/d/1Eb2WfFD94k3ud6JYOs71aY9FLFb6Bsg8/view?usp=sharing)
 - **[Starter code for Assignment 1](https://github.com/johnnylaicode/zoo-starter-code)**
 
 **Demo**
@@ -103,7 +103,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2024
 - Manipulate DOM in JavaScript ([DOM manipulation](https://gist.github.com/johnnylaicode/c8689ffee1f5fe516dec769d9bda1581))
 
 **Intro to Assignment 2**
-- ### [Assignment 2 - Grid Maker](https://drive.google.com/file/d/1ANeoz_iiHfpzHsYqi-39nebZ0bC3exzp/view?usp=sharing)
+- ### [Assignment 2 - Grid Maker](https://drive.google.com/file/d/1sN066F9faxSbEVQiuXmUotJToV0auVDz/view?usp=sharing)
 - **[Starter code for Assignment 2](https://github.com/johnnylaicode/grid-maker-starter-code)**
 
 **Demo**
@@ -176,7 +176,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2024
 - Intro to React Router ([slides](https://drive.google.com/file/d/1hgwPyZzvKDtftmdgSWdahXR4xGWCm42z/view?usp=sharing))
 
 **Intro to Assignment 3**
-- ### [Assignment 3 - Bank of React](https://gist.github.com/johnnylaicode/527a4cfa2a6758a8b91350f62bd2d9a0)
+- ### [Assignment 3 - Bank of React](https://gist.github.com/johnnylaicode/dc79b749444fb669bb755fb3a502c872)
 - **[Starter code for Assignment 3](https://github.com/johnnylaicode/bank-of-react-starter-code)** (website deployed to GitHub Pages)
 - Assignment 3 - Bank of React Starter Code Overview (*summary*)
 
@@ -223,7 +223,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2024
 <br/>
 
 **Intro to Final Project**
-- ### [Final Project - Full-Stack CRUD Application](https://drive.google.com/file/d/1RktO7PWFOUqCMnB8kdJQf8qRrLFD3FpJ/view?usp=sharing)
+- ### [Final Project - Full-Stack CRUD Application](https://drive.google.com/file/d/1CXT7ubi_hugOxL_ybRYex0C2uTOy9CCC/view?usp=sharing)
 - **[Client starter code for Final Project](https://github.com/johnnylaicode/client-starter-code)**
 - **[Server starter code for Final Project](https://github.com/johnnylaicode/server-starter-code)**
 
