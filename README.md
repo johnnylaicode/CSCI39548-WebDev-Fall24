@@ -92,7 +92,7 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2024
 
 ----------
 ## Class 4 (9/19, 9/24)
-### *Reminder:* DUE DATE: Assignment 1 - Zoo is due on Friday, 9/20, at 11:59 PM.
+### *Reminder:* NEW DUE DATE: Assignment 1 - Zoo is due on Friday, 9/27, at 11:59 PM.
 <br/>
 
 **Document Object Model (DOM)**
