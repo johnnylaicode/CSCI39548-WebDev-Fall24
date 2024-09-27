@@ -138,8 +138,6 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2024
 ----------
 ## Class 6 (10/8, 10/10)
 ### *Note:* NO CLASS 10/15 - CLASSES FOLLOW MONDAY SCHEDULE. Class resumes on Thursday, 10/17.
-
-### *Reminder:* DUE DATE: Assignment 2 - Grid Maker is due on Wednesday, 10/16, at 11:59 PM.
 <br/>
 
 ***Continue:*** **React**
@@ -171,6 +169,9 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2024
 
 ----------
 ## Class 7 (10/17, 10/22)
+### *Reminder:* NEW DUE DATE: Assignment 2 - Grid Maker is due on Monday, 10/21, at 11:59 PM.
+<br/>
+
 **React Router**
 - Single-Page Application, Client-Side Routing, React Router (*summary*)
 - Intro to React Router ([slides](https://drive.google.com/file/d/1hgwPyZzvKDtftmdgSWdahXR4xGWCm42z/view?usp=sharing))
