@@ -221,9 +221,6 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2024
 
 ----------
 ## Class 9 (10/31, 11/5)
-### *Reminder:* DUE DATE: Assignment 3 - Bank of React is due on Monday, 11/4, at 11:59 PM.
-<br/>
-
 **Intro to Final Project**
 - ### [Final Project - Full-Stack CRUD Application](https://drive.google.com/file/d/1CXT7ubi_hugOxL_ybRYex0C2uTOy9CCC/view?usp=sharing)
 - **[Client starter code for Final Project](https://github.com/johnnylaicode/client-starter-code)**
@@ -245,6 +242,9 @@ Course Page for CSCI 39548 Practical Web Development - Fall 2024
 
 ----------
 ## Class 10 (11/7, 11/12)
+### *Reminder:* NEW DUE DATE: Assignment 3 - Bank of React is due on Tuesday, 11/12, at 11:59 PM.
+<br/>
+
 **Back-End Application (Final Project)**
 - Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
 
